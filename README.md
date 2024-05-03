@@ -10,7 +10,7 @@ In April 2024 I graduated from the Advanced Data Analytics Bootcamp @ [neuefisch
 
 :basketball: In my spare time I´m also a basketball fan and stat head. 
 
-🤝 If you are interested in a co-up, feel free to contact me on my email - <pandit1781@pm.me>!
+🤝 If you are interested in a co-up, feel free to contact me on my email - <edgars_gaponenko@protonmail.com>!
 
 <!--
 **pandit1781/pandit1781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
