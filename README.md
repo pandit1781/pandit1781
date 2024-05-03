@@ -1,6 +1,6 @@
 Hi there. 👋 Thanks for stopping by! My name is Edgars (or simply Edgar). I´m from 🇱🇻 , now living in :de: . 
 
-In April 2024 I graduated from the Advanced Data Analytics Bootcamp @ [neuefische GmbH](https://github.com/neuefische) , where I learned new skills on how to approach any data analytics projects.
+:chart_with_upwards_trend: Graduate of Advanced Data Analytics Bootcamp @ [neuefische GmbH](https://github.com/neuefische) , where I learned new skills on how to approach any data analytics projects.
 
 :office: + :anchor: Prior to that I worked in international marine transport insurance and logistics crunching numbers, negotiating and purchasing insurance on behalf of large shipping clients.
 
