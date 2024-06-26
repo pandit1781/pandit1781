@@ -1,6 +1,6 @@
 👋 Hi there! I'm Edgars. Originally from Riga, 🇱🇻 and now based in gorgeous city of Hamburg, 🇩🇪.
 
-🚀 Graduate of Advanced Data Analytics Bootcamp at [neuefische GmbH](https://github.com/neuefische), where I honed my skills in tackling data analytics projects from scratch.
+🚀 Recent graduate of Advanced Data Analytics Bootcamp at [neuefische GmbH](https://github.com/neuefische), where I honed my skills in tackling data analytics projects from scratch.
 
 💼 I've primarily worked in international marine transport insurance and logistics in various roles, where I crunched numbers and data, negotiated deals, and purchased insurance for major shipping clients.
 
