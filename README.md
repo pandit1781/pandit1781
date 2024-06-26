@@ -6,7 +6,7 @@
 
 🎓 I hold a B.Sc. degree in Logistics and Port Economics, with a focus on transport policy and business informatics.
 
-🌱 I'm eager to apply my technical data analysis skills and communication strenght to solve challenges in logistics or insurance in my next role as a data/business/performance/BI/product analyst/consultant.
+🌱 I'm eager to apply my technical data analysis skills and communication strength to solve challenges in logistics or insurance in my next role as a data/business/performance/BI/product analyst/consultant.
 
 🏀 In my spare time, I’m a basketball enthusiast and stats aficionado.
 
