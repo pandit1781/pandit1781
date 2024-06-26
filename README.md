@@ -1,16 +1,16 @@
-Hi there. 👋 Thanks for stopping by! My name is Edgars (or simply Edgar). I´m from 🇱🇻 , now living in :de: . 
+👋 Hi there! I'm Edgars. Originally from Riga, 🇱🇻 and now based in gorgeous city of Hamburg, 🇩🇪.
 
-:chart_with_upwards_trend: I recently graduated from Advanced Data Analytics Bootcamp @ [neuefische GmbH](https://github.com/neuefische) , where I learned new skills on how to approach any data analytics projects.
+🚀 Graduate of Advanced Data Analytics Bootcamp at [neuefische GmbH](https://github.com/neuefische), where I honed my skills in tackling data analytics projects from scratch.
 
-:office: + :anchor: Prior to that I worked in international marine transport insurance and logistics crunching numbers, negotiating and purchasing insurance on behalf of large shipping clients.
+💼 I've primarily worked in international marine transport insurance and logistics in various roles, where I crunched numbers and data, negotiated deals, and purchased insurance for major shipping clients.
 
-:mortar_board: I got my B.Sc. degree in logistics and port economics with focus on transport policy and business informatics. 
+🎓 I hold a B.Sc. degree in Logistics and Port Economics, with a focus on transport policy and business informatics.
 
-🌱 On my next job I´d love to apply data analysis methods to solve logistical or insurance related challenges.
+🌱 I'm eager to apply my technical data analysis skills and communication strenght to solve challenges in logistics or insurance in my next role as a data/business/performance/BI/product analyst/consultant.
 
-:basketball: In my spare time I´m also a basketball fan and stat head. 
+🏀 In my spare time, I’m a basketball enthusiast and stats aficionado.
 
-🤝 If you are interested in a co-up, feel free to contact me on my email - <edgars_gaponenko@protonmail.com>!
+🤝 Let's connect! Feel free to reach out via email at <edgars_gaponenko@protonmail.com>!
 
 <!--
 **pandit1781/pandit1781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
